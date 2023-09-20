@@ -13,7 +13,7 @@
         <input type="submit" value="PUNTO 4 / JAIR ACEVEDO">
     </form>
 
-    <form action="punto6.php" method="post">
+    <form action="punto6_cristian_parada.php" method="post">
         <input type="submit" value="PUNTO 6 / CRISTIAN PARADA">
     </form>
     
@@ -21,7 +21,7 @@
         <input type="submit" value="PUNTO 2 / CARLOS AGUDELO">
     </form>
     
-    <form action="punto1.php" method="post">
+    <form action="seccion1Alirio.php" method="post">
         <input type="submit" value="PUNTO 1 / ALIRIO SANCHEZ">
     </form>
 </body>
