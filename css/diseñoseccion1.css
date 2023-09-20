@@ -1,0 +1,21 @@
+body {
+	position: relative;
+	min-height: 100%;
+	color: #555555;
+	background-color: #88c281;
+	margin: 0;
+	padding-bottom: 100px; 
+}
+
+.r {
+    font-size: 30px;
+    color: white;
+}
+
+.t{
+    color: white;
+}
+
+.h{
+    color: white;
+}
