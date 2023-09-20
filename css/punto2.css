@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    min-width: 100px;
+    max-width: 600px;
+    margin: 25px auto;
+    background-image: url('https://images.squarespace-cdn.com/content/v1/588c0b9fe3df28ab3464f337/1521573544362-0X5BHKFT4K1BXAVZK8N3/Mesh-Triangles-Surface-Colorful-Angular-WallpapersByte-com-3840x2400.jpg?format=2500w');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+  }
+  .box button {
+    margin: 10px 10px; 
+  }
+  .box {
+    text-align: center;
+    display: grid;                    
+    grid-template-columns: 50% 50%;   
+    margin-bottom: 15px;
+    background: rgb(244, 176, 28); 
+    color: rgb(255, 255, 255);
+  }
+  .nombre, .valor{
+    padding: 5px;
+    font-size: 16px;
+    align-self: center;  
+    text-align: center;  
+  }
+  .select{
+  align-self: center;  
+  text-align: center;  
+  font-size: 30px;  
+  font-weight: bold;
+  }
